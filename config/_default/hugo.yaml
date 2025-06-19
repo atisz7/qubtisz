@@ -2,7 +2,8 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://atisz7.github.io/qubtisz"
+#baseURL: "https://atisz7.github.io/qubtisz"
+baseURL: "http://localhost:1313/"
 title: qubtisz
 
 ############################
